@@ -3,3 +3,6 @@
 ## This is an `<h2>` header
 
 ###### This is an `<h6>` header, which is the smallest
+
+# Picture of a panda
+![Panda with glasses and headphones](https://t3.ftcdn.net/jpg/06/02/79/62/240_F_602796205_cpET4ARhcBtYauNpseqyxPubu0Ipe0Vb.jpg)
